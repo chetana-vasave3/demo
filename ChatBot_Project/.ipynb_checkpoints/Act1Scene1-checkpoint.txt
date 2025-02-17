@@ -1,0 +1,43 @@
+Welcome to Training Institution IPCS Global!
+
+IPCS Global is a research-oriented and progressive approach that offers perfect automation solutions to a vast array of industries which include but are not confined to software, marine and construction engineering. Our Expertise is in Process Automation, Factory Automation, Machine Automation, CNC solutions, Building Management Systems, Energy Management, the Internet Of Things, Robotics, Industrial Calibration and testing, We have been providing industries with services ranging from proposing and installing to absolute commissioning of automated systems, completely adhering to industry standards. IPCS provides its customers with a plethora of products- HMI systems, Programmable Logic Controllers (PLCs), DCS systems, Supervisory Control and Data Acquisition (SCADA), drives, sensors, DCS systems and much more. Apart from all these, we conduct numerous training programs in corporate companies and also for professionals in the areas of PLC, SCADA, DCS, HMI, Drives, Panel Designing, Process Control, Electric Controls, Embedded, Robotics, Industrial Networking, Internet of Things, IT and Digital Marketing Industrial Networking.
+1. Programming:
+   - Python Programming
+   - Java Development
+   - C# Fundamentals
+   - JavaScript Essentials
+
+2. Data Science:
+   - Introduction to Data Science
+   - Machine Learning Basics
+   - Data Visualization Techniques
+   - Big Data Analytics
+
+3. Web Development:
+   - HTML5 and CSS3 Fundamentals
+   - Front-end Development with React.js
+   - Back-end Development with Node.js
+   - Full-Stack Web Development
+
+4. Cybersecurity:
+   - Ethical Hacking Fundamentals
+   - Network Security Essentials
+   - Cyber Defense Strategies
+   - Penetration Testing
+
+5. Cloud Computing:
+   - Introduction to Cloud Platforms
+   - AWS Certified Solutions Architect
+   - Microsoft Azure Fundamentals
+   - Google Cloud Platform Essentials
+
+Our courses are designed and taught by industry experts with extensive experience in their respective fields. Whether you're a beginner looking to learn new skills or a professional seeking to expand your knowledge, we have the right course for you.
+
+Enrollment is open year-round, and our flexible schedules allow you to study at your own pace. We also offer various payment options, including installment plans and discounts for early registration.
+
+For more information about our courses, enrollment process, schedule, fees, promotions, and frequently asked questions, please visit our website or contact our support team.
+
+
+
+Thank you for considering Training Institution XYZ for your training needs. We look forward to helping you achieve your learning goals!
+The fees for our Python Developer course typically range from $2500 to $6000, depending on factors such as course duration, curriculum, and additional resources provided. You can find detailed information about the fees structure on our website or by contacting our admissions office directly.
